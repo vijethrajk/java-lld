@@ -16,6 +16,7 @@ public class Client {
         cache.put("a","first");
         cache.put("b","sec");
         cache.put("c","third");
+        cache.get("a");
         cache.put("d","fourth");
         cache.put("e","fifth");
         cache.put("f","sixth");
